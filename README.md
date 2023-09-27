@@ -14,5 +14,6 @@ Gleichzeitig können die Mitglieder sich über einen Chatroom über die Material
 ## Organisatorische und technische Rahmenbedingungen ##
 Die Umsetzung des Projektes teilt sich in viele Unterbereiche. Es wird ein zentrales Repository benötigt, dass gesammelte Inhalte in realitätsnaher Form darstellt. 
 Der Zugriff auf die dargestellten Inhalte wird eingeschränkt, sobald ein User mit diesem interagiert, um Zugriffskonflikte zu vermeiden.
-Das Interface wird 
+Das Interface muss mit HTML so gestaltet werden, dass es ein übersichtliches Arbeiten ermöglicht. Es werden keine Unterordner beim Launch geplant, da ein Einschränken der Anzahl an Inhalten eine bessere Übersichtlichkeit garantiert. Langfristig können virtuelle Arbeitstaschen mit Projektfoldern neben dem virtuellen Tisch platziert werden. 
+Um den Arbeitsaufwand beim erstellen der Software zu minimieren, wird eine Sprachchatsoftware angekauft.
 
