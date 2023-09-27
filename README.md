@@ -1,4 +1,4 @@
-#** Lerngruppenmanager**
+# Lerngruppenmanager
 
 ## Ausgangssituation ##
 Viele Studenten nutzen momentan unhandliche Programme, wie *Whatsapp* moder *Signal*.
